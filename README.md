@@ -21,16 +21,16 @@ In this web application, I have applied the following skills:
 >13. Writing a README file adequately
 >14. Submit the URL to Module 1 Challenge<br><br>
 
-
-
 ## Installation
 
 N/A
 
 ## Usage 
 
-Landing Page for HORISEON Social Solution Services, Inc.
+Landing Page for HORISEON Social Solution Services, Inc.:
+https://damnsemicolon.github.io/code-refactor-horiseon/
 
+![screenshot](assets\images\digital-marketing-meeting.jpg)
 ## Credits
 
 Philip Howley (Instructor)<br>
