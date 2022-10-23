@@ -16,6 +16,7 @@ body {
 h1{
     display: inline-block;
     font-size: 48px;
+    font-family:'Trebuchet MS'
 }
 
 ul li {
@@ -27,15 +28,8 @@ ul li {
 
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2a607c;
-}
-
-.text-right {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-size: 20px;
 }
 
 a {
@@ -59,6 +53,13 @@ footer {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.text-right {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
 }
 
 .float-left {
@@ -103,24 +104,18 @@ footer {
     max-width: 150px;
 }
 
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
+.div_content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
 }
 
-#search-engine-optimization img,
-#online-reputation-management img,
-#social-media-marketing img {
+.div_content img {
     max-height: 200px;
 }
 
-#search-engine-optimization h2,
-#online-reputation-management h2,
-#social-media-marketing h2 {
+.div_content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
