@@ -30,7 +30,7 @@ N/A
 Landing Page for HORISEON Social Solution Services, Inc.:
 https://damnsemicolon.github.io/code-refactor-horiseon/
 
-![screenshot](assets\images\digital-marketing-meeting.jpg)
+![screenshot](assets/images/digital-marketing-meeting.jpg)
 ## Credits
 
 Philip Howley (Instructor)<br>
