@@ -19,7 +19,7 @@ In this web application, I have applied the following skills:
 >11. Ensuring web application loads correctly
 >12. Ensuring Github has the latest application codes
 >13. Writing a README file adequately
->14. Submit the URL to Module 1 Challenge
+>14. Submit the URL to Module 1 Challenge<br><br>
 
 
 
@@ -33,9 +33,9 @@ Landing Page for HORISEON Social Solution Services, Inc.
 
 ## Credits
 
-Philip Howley (Instructor)
-Nic Catania (TA)
-Pod-4 mates
+Philip Howley (Instructor)<br>
+Nic Catania (TA)<br>
+Pod-4 mates<br>
 Myself
 
 ## License
