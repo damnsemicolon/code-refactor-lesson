@@ -28,7 +28,7 @@ N/A
 ## Usage 
 
 Landing Page for HORISEON Social Solution Services, Inc.:
-https://damnsemicolon.github.io/code-refactor-horiseon/
+https://damnsemicolon.github.io/code-refactor-shannon/
 
 ![screenshot](assets/images/digital-marketing-meeting.jpg)
 ## Credits
